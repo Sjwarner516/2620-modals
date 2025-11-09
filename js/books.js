@@ -6,7 +6,7 @@ export const bookData =
     "year_released": "2023-05-02",
     "main_characters": ["Violet Sorrengail", "Xaden Riorson", "Dain Aetos"],
     "description": "Twenty-year-old Violet Sorrengail is forced by her mother into the dragon-riders’ quadrant at Basgiath War College, a place designed to weed out the weak. She must survive deadly trials and bond with a dragon while navigating hostility, rivalry, and her growing attraction to wingleader Xaden Riorson.",
-    "image_path": "../fourthwing.webp"
+    "image_path": "./fourthwing.webp"
   },
   {
     "title": "Iron Flame",
@@ -62,7 +62,7 @@ export const bookData =
     "year_released": "2024-08-20",
     "main_characters": ["Elara", "Kael"],
     "description": "Elara, a fire-wielder hiding her power, and Kael, a brooding warrior bound by duty, are drawn together in a kingdom on the brink of collapse as ancient magic stirs beneath the surface.",
-    "image_path": "../embers.jpg"
+    "image_path": "./embers.jpg"
   },
  {
     "title": "A Court of Silver Flames",
@@ -70,7 +70,7 @@ export const bookData =
     "year_released": "2021-02-16",
     "main_characters": ["Nesta Archeron", "Cassian"],
     "description": "A Court of Silver Flames follows Nesta Archeron, Feyre’s fiery sister, as she trains under the Illyrian warrior Cassian. Haunted by trauma, Nesta battles her inner demons and her growing passion for Cassian in a story of redemption, love, and fire.",
-    "image_path": "../silverflame.jpg"
+    "image_path": "./silverflame.jpg"
   },
   {
     "title": "A Court of Frost and Starlight",
@@ -78,6 +78,6 @@ export const bookData =
     "year_released": "2018-05-01",
     "main_characters": ["Feyre Archeron", "Rhysand"],
     "description": "Set between the events of A Court of Wings and Ruin and A Court of Silver Flames, this novella revisits Feyre and Rhysand as they rebuild the Night Court and prepare for the Winter Solstice, offering a quieter, heartfelt continuation of their love story.",
-    "image_path": "../frostandstarlight.jpg"
+    "image_path": "./frostandstarlight.jpg"
   }
 ]
