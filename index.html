@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
+    
+    <title>Document</title>
+</head>
+<body>
+    
+     <header class="grid grid-cols-[auto_44px_44px_44px] gap-2 p-2 border-b">
+           <img src="../soccerball.svg" class="w-11 h-11" alt="logo">
+            <a class="border w-11 h-11 flex justify-around rounded-full hover:bg-slate-100" href="#"><img class="w-4" src="../person.svg"></a>
+            <a class="border w-11 h-11 flex justify-around rounded-full hover:bg-slate-100" href="#"><img class="w-4" src="../cart3.svg" alt="cart"></a>
+            <a id="hamburgerBtn" class="border w-11 h-11 flex justify-around rounded-full hover:bg-slate-100 sm:hidden" href="#"><img class="w-4" src="../Asset 1.svg" alt="hamburgericon"></a>
+    </header>
+
+   <nav id="primaryNav" class="bg-mymaroon hidden sm:px-2 sm:block">
+    <ul class="flex flex-col sm:flex-row">
+      <li class="border-b border-blue-500 sm:border-b-0">
+        <a href="#font" class="block py-2 px-3 text-mygreen hover:bg-myblue">Fantasy</a></li>
+      <li class="border-b border-blue-500 sm:border-b-0">
+        <a href="#breakOver" class="block py-2 px-3 text-mygreen hover:bg-myblue">Horror</a></li>
+      <li class="border-b text-blue-300 sm:border-b-0">
+        <a href="#colorOver" class="block py-2 px-3 text-mygreen hover:bg-myblue">Romantasy</a></li>  
+   </ul>
+</nav> 
+<main><h1 class="text-fuchsia-600 text-3xl text-center m-4">Romantasy Books 2024-2025</h1>
+<div id="booksHere" class="grid gap-4 p-2 m-auto sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4"></div>
+
+<dialog id="mydialog" class="w-5/6 max-w-96 rounded-md backdrop:backdrop-grayscale"><h2 id="mydialog"></h2>
+<div class="bg-gray-50 justify-between flex border-b px-2>">
+<button class="cursor-pointer text-fuchsia-600 hover:text-amber-950">X</button></div>
+<p id="desc" class="m-2 text-cyan-400 "></p>
+<section class="grid grid-cols-2 m-2">
+<img id="photo">
+<div>
+    <p id="title" class="m-2 text-cyan-950 font-normal text-xl"></p>
+    <p id="author" class="m-2 text-cyan-950 font-normal text-xs"></p>
+    <p id="releaseYear" class="m-2 text-cyan-950 font-normal text-xs"></p>
+    <p class="m-2 text-cyan-950 font-normal text-xs">Main Characters</p>
+    <ul id="characters" class="mx-4 mb-4 text-xs"></p>
+</div>
+
+
+</section>
+</dialog>
+
+</main>
+<script src="../js/scripts.js" type="module"></script>
+<script src="../js/navigation.js" type="module"></script>
+</body>
+<footer>
+  <p class="text-center text-sm text-fuchsia-600">
+    &copy; Sydni Warner &bull; DWDD 2620
+  </p>
+</footer>
+</html>
