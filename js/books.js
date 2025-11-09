@@ -14,7 +14,7 @@ export const bookData =
     "year_released": "2023-11-07",
     "main_characters": ["Violet Sorrengail", "Xaden Riorson", "Brennan Sorrengail"],
     "description": "The second book of The Empyrean series. Violet enters her second year at Basgiath War College, facing harsher training, new enemies, and deeper love with Xaden. The war around them intensifies and their relationship is tested. ",
-    "image_path": "../ironflame.webp"
+    "image_path": "./ironflame.webp"
   },
   {
     "title": "Onyx Storm",
@@ -22,7 +22,7 @@ export const bookData =
     "year_released": "2025-01-21",
     "main_characters": ["Violet Sorrengail", "Xaden Riorson"],
     "description": "In the third installment of The Empyrean series, Violet must step beyond the academy to forge alliances and confront looming threats to save Xaden and her world.",
-    "image_path": "../onyxstorm.jpg"
+    "image_path": "./onyxstorm.jpg"
   },
   {
     "title": "Secret Society of Kings, Witches and Spirits",
@@ -30,7 +30,7 @@ export const bookData =
     "year_released": "2024-10-25",
     "main_characters": ["Lana Valenta"],
     "description": "Lana Valenta, Queen of the Gold Kingdom, finds her husband’s body comatose while his soul is trapped in another dimension. To rescue him and save her realm, Lana delves into a secret society of mystical kings, witches and spirits.",
-    "image_path": "../secretsociety.jpg"
+    "image_path": "./secretsociety.jpg"
   },
   {
     "title": "Can’t Spell Treason Without Tea",
@@ -38,7 +38,7 @@ export const bookData =
     "year_released": "2023-07-10",
     "main_characters": ["Reyna", "Kianthe"],
     "description": "Reyna (a queen’s private guard) and Kianthe (the most powerful mage in the world) set aside their differences to open a bookshop in a small town — but when threats from the queen and magical murder plots show up, their budding romance is tested.",
-    "image_path": "../tea.jpg"
+    "image_path": "./tea.jpg"
   },
   {
     "title": "Sun of Blood and Ruin",
@@ -46,7 +46,7 @@ export const bookData =
     "year_released": "2023-11-07",
     "main_characters": ["Pantera", "Leonora de Las Casas Tlazohtzin"],
     "description": "In 16th-century New Spain, Pantera hides her identity as a sorceress warrior, while Leonora, promised to the heir of the Spanish throne, must embrace her magic to fight prophecy and tyranny — all while their destinies intertwine.",
-    "image_path": "../sunofruin.jpg"
+    "image_path": "./sunofruin.jpg"
   },
   {
     "title": "A Touch of Chaos",
@@ -54,7 +54,7 @@ export const bookData =
     "year_released": "2023-11-14",
     "main_characters": ["Persephone", "Hades"],
     "description": "The fourth in a series inspired by Greek mythology, this romantasy follows Persephone’s evolution as Queen of the Underworld and her complex relationship with Hades amid war and gods’ intrigues.",
-    "image_path": "../chaos.jpg"
+    "image_path": "./chaos.jpg"
   },
   {
     "title": "Twilight of Embers",
